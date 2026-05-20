@@ -2,12 +2,18 @@
 BRAZO ROBÓTICO DE 3 GRADOS DE LIBERTAD
 ===========================================
 
+
 DESCRIPCIÓN GENERAL
 -------------------
 Este código controla un brazo robótico de 3 grados de libertad (más una pinza)
 utilizando servomotores. Implementa cinemática inversa para posicionar el efector
 final en coordenadas cartesianas (x, y, z) y ejecuta una trayectoria de prueba
 automática.
+
+ARCHIVOS 3d
+-----------------
+https://cults3d.com/es/modelo-3d/herramientas/robot-bb
+
 
 PARÁMETROS GEOMÉTRICOS DEL BRAZO (en cm)
 ----------------------------------------
